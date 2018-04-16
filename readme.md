@@ -4,8 +4,8 @@ This is the implementation repository for the [Cabinet and Drawers project](http
 
 ---
 ### Status
-* Version: 1.0
-* Developing v1.1
+* Version: 1.1
+* Released
 ---
 ### Authors:
 * Imanol Barberia (imanol.barberia@gmail.com)
