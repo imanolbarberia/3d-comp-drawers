@@ -6,6 +6,7 @@ This is the output folder, where all the printable files will be stored
 * **drawer_tiny.stl**: Mesh for the Tiny drawer object
 * **drawer_small.stl**: Mesh for the Small drawer object
 * **drawer_standard.stl**: Mesh for the Standard drawer object
+* **drawer_big.stl**: Mesh for the Big drawer object
 
 ### GCode
 3D printing parameters used for the models:
@@ -22,3 +23,4 @@ Files:
 * **drawer_tiny.gcode**: Printable model file for the Tiny version of drawer
 * **drawer_small.gcode**: Printable model file for the Small version of drawer
 * **drawer_standard.gcode**: Printable model file for the Standard version of drawer
+* **drawer_big.gcode**: Printable model file for the Big version of drawer
