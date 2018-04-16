@@ -4,6 +4,7 @@ This is the output folder, where all the printable files will be stored
 ### STL Files
 * **cabinet.stl**: Mesh for the cabinet object
 * **drawer_tiny.stl**: Mesh for the Tiny drawer object
+* **drawer_small.stl**: Mesh for the Small drawer object
 
 ### GCode
 3D printing parameters used for the models:
@@ -18,3 +19,4 @@ This is the output folder, where all the printable files will be stored
 Files:
 * **cabinet.gcode**: Printable model file for the cabinet
 * **drawer_tiny.gcode**: Printable model file for the Tiny version of drawer
+* **drawer_small.gcode**: Printable model file for the Small version of drawer
