@@ -4,7 +4,7 @@ This is the implementation repository for the [Cabinet and Drawers project](http
 
 ---
 ### Status
-* Version: v1.5
+* Version: v1.5.1
 * Released
 ---
 ### Authors:
