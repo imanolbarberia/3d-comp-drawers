@@ -4,7 +4,7 @@ This project is for creating a cabinet and drawers for storing electronic compon
 
 ---
 ### Status
-* Version: v1.7.1
+* Version: v1.8
 * Released (https://www.thingiverse.com/thing:2868765)
 ---
 ### Tools used
